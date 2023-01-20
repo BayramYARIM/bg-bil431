@@ -1,0 +1,618 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2022.12.18)  30 DEC 2022 21:40
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/home/byarge/by-dirtycow-18010011067/bayramyarim-18010011067.tex
+(/home/byarge/by-dirtycow-18010011067/bayramyarim-18010011067.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-01-09> xparse <2020-03-03> (/home/byarge/by-dirtycow-18010011067/IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen138
+\@IEEEtrantmpdimenB=\dimen139
+\@IEEEtrantmpdimenC=\dimen140
+\@IEEEtrantmpcountA=\count177
+\@IEEEtrantmpcountB=\count178
+\@IEEEtrantmpcountC=\count179
+\@IEEEtrantmptoksA=\toks15
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 503.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 210mm x 297mm (a4) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen141
+-- This is a 12 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen142
+\CLASSINFOnormalsizeunitybaselineskip=\dimen143
+\IEEEnormaljot=\dimen144
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <14> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <22> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <22> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+\IEEEquantizedlength=\dimen145
+\IEEEquantizedlengthdiff=\dimen146
+\IEEEquantizedtextheightdiff=\dimen147
+\IEEEilabelindentA=\dimen148
+\IEEEilabelindentB=\dimen149
+\IEEEilabelindent=\dimen150
+\IEEEelabelindent=\dimen151
+\IEEEdlabelindent=\dimen152
+\IEEElabelindent=\dimen153
+\IEEEiednormlabelsep=\dimen154
+\IEEEiedmathlabelsep=\dimen155
+\IEEEiedtopsep=\skip47
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@IEEEsubequation=\count184
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\c@figure=\count185
+\c@table=\count186
+\@IEEEeqnnumcols=\count187
+\@IEEEeqncolcnt=\count188
+\@IEEEsubeqnnumrollback=\count189
+\@IEEEquantizeheightA=\dimen156
+\@IEEEquantizeheightB=\dimen157
+\@IEEEquantizeheightC=\dimen158
+\@IEEEquantizeprevdepth=\dimen159
+\@IEEEquantizemultiple=\count190
+\@IEEEquantizeboxA=\box47
+\@IEEEtmpitemindent=\dimen160
+\IEEEPARstartletwidth=\dimen161
+\c@IEEEbiography=\count191
+\@IEEEtranrubishbin=\box48
+) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 112.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+) (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen162
+\Gin@req@width=\dimen163
+) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+ (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen164
+\captionmargin@=\dimen165
+\captionwidth=\dimen166
+\caption@tempdima=\dimen167
+\caption@indent=\dimen168
+\caption@parindent=\dimen169
+\caption@hangindent=\dimen170
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\ifx \@captype \@IEEEtablestring \footnotesize \bgroup \par \centering \@IEEEtabletopskipstrut {\normalfont \footnotesize #1}\\{\normalfont \footnotesize \scshape #2}\par \addvspace {0.5\baselineskip }\egroup \@IEEEtablecaptionsepspace \else \@IEEEfigurecaptionsepspace \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}\nobreakspace \nobreakspace #2}\ifdim \wd \@tempboxa >\hsize \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}\nobreakspace \nobreakspace }\parbox [t]{\hsize }{\normalfont \footnotesize \noindent \unhbox \@tempboxa #2}\else \ifCLASSOPTIONconference \hbox to\hsize {\normalfont \footnotesize \hfil \box \@tempboxa \hfil }\else \hbox to\hsize {\normalfont \footnotesize \box \@tempboxa \hfil }\fi \fi \fi  on input line 1139.
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count192
+\c@continuedfloat=\count193
+) (/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+\c@subfigure=\count194
+\c@subtable=\count195
+) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count196
+\Gm@cntv=\count197
+\c@Gm@tempcnt=\count198
+\Gm@bindingoffset=\dimen171
+\Gm@wd@mp=\dimen172
+\Gm@odd@mp=\dimen173
+\Gm@even@mp=\dimen174
+\Gm@layoutwidth=\dimen175
+\Gm@layoutheight=\dimen176
+\Gm@layouthoffset=\dimen177
+\Gm@layoutvoffset=\dimen178
+\Gm@dimlist=\toks19
+) (/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen179
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen180
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count199
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count266
+\leftroot@=\count267
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count268
+\DOTSCASE@=\count269
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box49
+\strutbox@=\box50
+\big@size=\dimen181
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count270
+\c@MaxMatrixCols=\count271
+\dotsspace@=\muskip17
+\c@parentequation=\count272
+\dspbrk@lvl=\count273
+\tag@help=\toks21
+\row@=\count274
+\column@=\count275
+\maxfields@=\count276
+\andhelp@=\toks22
+\eqnshift@=\dimen182
+\alignsep@=\dimen183
+\tagshift@=\dimen184
+\tagwidth@=\dimen185
+\totwidth@=\dimen186
+\lineht@=\dimen187
+\@envbody=\toks23
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-01-29 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count277
+\l__pdf_internal_box=\box51
+) (/home/byarge/by-dirtycow-18010011067/bayramyarim-18010011067.aux)
+\openout1 = `bayramyarim-18010011067.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+
+-- Lines per column: 42 (approximate, difference = 6.89027pt).
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count278
+\scratchdimen=\dimen188
+\scratchbox=\box52
+\nofMPsegments=\count279
+\nofMParguments=\count280
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count281
+\MPscratchDim=\dimen189
+\MPnumerator=\count282
+\makeMPintoPDFobject=\count283
+\everyMPtoPDFconversion=\toks26
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-1.47298pt
+* \headheight=12.0pt
+* \headsep=18.60963pt
+* \topskip=13.92pt
+* \footskip=67.3148pt
+* \marginparwidth=20.0pt
+* \marginparsep=10.0pt
+* \columnsep=12.0pt
+* \skip\footins=12.52791pt plus 5.5679pt minus 2.78395pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Underfull \hbox (badness 3000) in paragraph at lines 24--27
+\T1/ptm/b/n/10 lider olan ³ir-ket Red Hat, 2016 y^^Yl^^Ynda
+ []
+
+
+Underfull \hbox (badness 1565) in paragraph at lines 28--29
+\T1/ptm/b/n/10 fay-dalan-abilir. Az-imuth Se-cu-rity fir-mas^^Yn^^Yn
+ []
+
+
+Underfull \hbox (badness 4859) in paragraph at lines 28--29
+\T1/ptm/b/n/10 k^^Ydemli güven-lik ara³t^^Yr-ma-c^^Ylar^^Yn-dan Dan
+ []
+
+
+Underfull \hbox (badness 4378) in paragraph at lines 30--31
+\T1/ptm/b/n/10 12.04 ver-siy-onu ku-ru-lumu gerçek-le³tir-ildi.
+ []
+
+
+Underfull \hbox (badness 1609) in paragraph at lines 36--37
+\T1/ptm/m/n/12 geçen hata \T1/ptm/b/n/12 Dirty COW (CVE-2016-
+ []
+
+
+Underfull \hbox (badness 2970) in paragraph at lines 36--37
+\T1/ptm/b/n/12 5195) \T1/ptm/m/n/12 olarak ad-land^^Yr^^Yld^^Y. Dirty Cow
+ []
+
+
+Underfull \hbox (badness 2435) in paragraph at lines 38--39
+[]\T1/ptm/m/n/12 Bu çal^^Y³-man^^Yn konusu Dirty COW
+ []
+
+
+Underfull \hbox (badness 7433) in paragraph at lines 38--39
+\T1/ptm/m/n/12 güven-lik aç^^Y§^^Yn^^Y amac^^Y Dirty COW
+ []
+
+
+Underfull \hbox (badness 7963) in paragraph at lines 44--45
+[]\T1/ptm/m/n/12 Bu uygu-la-malar ile linux ta-banl^^Y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+\T1/ptm/m/n/12 root yetk-isi ver-ilebilmek-te-dir.
+ []
+
+
+Underfull \hbox (badness 4752) in paragraph at lines 44--45
+\T1/ptm/m/n/12 Kütüphane dosyalar^^Y, dosya içerik-leri
+ []
+
+
+Underfull \hbox (badness 1769) in paragraph at lines 44--45
+\T1/ptm/m/n/12 sql in-jec-tion ile sald^^Yr^^Y yap^^Yp sunucu
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+\T1/ptm/m/n/12 tama-men ele geçir-ilebilir. Sis-tem
+ []
+
+
+Underfull \hbox (badness 4927) in paragraph at lines 44--45
+\T1/ptm/m/n/12 bu aç^^Yk-l^^Yk-tan yarar-la-narak yap^^Yla-bilir.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+\T1/ptm/m/n/12 ker-nelinde bu-lu-nan en yük-sek ve
+ []
+
+
+Underfull \hbox (badness 1769) in paragraph at lines 44--45
+\T1/ptm/m/n/12 (2.6.22 ile 4.8.3 aras^^Y) tüm sis-tem-ler
+ []
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+<ubuntu-os-info.png, id=9, 655.248pt x 66.84975pt>
+File: ubuntu-os-info.png Graphic file (type png)
+<use ubuntu-os-info.png>
+Package pdftex.def Info: ubuntu-os-info.png  used on input line 52.
+(pdftex.def)             Requested size: 262.09456pt x 26.73941pt.
+
+Overfull \hbox (58.96773pt too wide) in paragraph at lines 52--53
+ [][] 
+ []
+
+<process1.png, id=11, 835.12pt x 537.00626pt>
+File: process1.png Graphic file (type png)
+<use process1.png>
+Package pdftex.def Info: process1.png  used on input line 59.
+(pdftex.def)             Requested size: 208.77948pt x 134.25124pt.
+
+Overfull \hbox (5.65265pt too wide) in paragraph at lines 59--60
+ [][] 
+ []
+
+<cow-code.png, id=12, 721.69624pt x 872.25874pt>
+File: cow-code.png Graphic file (type png)
+<use cow-code.png>
+Package pdftex.def Info: cow-code.png  used on input line 68.
+(pdftex.def)             Requested size: 216.51054pt x 261.67964pt.
+
+Overfull \hbox (13.38371pt too wide) in paragraph at lines 68--69
+ [][] 
+ []
+
+
+Underfull \hbox (badness 2671) in paragraph at lines 72--73
+\T1/ptm/m/n/12 Çal^^Y³t^^Yr^^Ylan bu thread-lar writeThread()
+ []
+
+[2 </home/byarge/by-dirtycow-18010011067/ubuntu-os-info.png> </home/byarge/by-dirtycow-18010011067/process1.png> </home/byarge/by-dirtycow-18010011067/cow-code.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+[]\T1/ptm/b/n/12 madviseThread() \T1/ptm/m/n/12 : Bu-radaki
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+\T1/ptm/m/n/12 fonksiyon haf^^Yza üz-erinden dosyaya
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+\T1/ptm/m/n/12 er-i³im sa§la-makta ve e³le³ti§inde
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 76--77
+\T1/ptm/m/n/12 dosya içerisinde bu-lu-nan alana haf^^Yza
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+\T1/ptm/m/n/12 üz-erinden er-i³im ya-parak veriyi
+ []
+
+<process-out.png, id=19, 726.715pt x 464.73625pt>
+File: process-out.png Graphic file (type png)
+<use process-out.png>
+Package pdftex.def Info: process-out.png  used on input line 81.
+(pdftex.def)             Requested size: 203.4788pt x 130.12526pt.
+<add-user-charlie.png, id=20, 726.715pt x 464.73625pt>
+File: add-user-charlie.png Graphic file (type png)
+<use add-user-charlie.png>
+Package pdftex.def Info: add-user-charlie.png  used on input line 89.
+(pdftex.def)             Requested size: 203.4788pt x 130.12526pt.
+
+Underfull \hbox (badness 1418) in paragraph at lines 92--93
+\T1/ptm/m/n/12 kul-lan^^Yc^^Y nu-maras^^Y ise 0'd^^Yr. Kul-lan^^Yc^^Y
+ []
+
+<change-user-charlie.png, id=21, 726.715pt x 464.73625pt>
+File: change-user-charlie.png Graphic file (type png)
+<use change-user-charlie.png>
+Package pdftex.def Info: change-user-charlie.png  used on input line 97.
+(pdftex.def)             Requested size: 203.4788pt x 130.12526pt.
+<root-charlie.png, id=22, 726.715pt x 464.73625pt>
+File: root-charlie.png Graphic file (type png)
+<use root-charlie.png>
+Package pdftex.def Info: root-charlie.png  used on input line 103.
+(pdftex.def)             Requested size: 203.4788pt x 130.12526pt.
+
+Underfull \hbox (badness 1852) in paragraph at lines 94--106
+\T1/ptm/m/n/12 bulup kul-lan^^Yc^^Yya \T1/ptm/b/n/12 uid=0 \T1/ptm/m/n/12 ya-parak root
+ []
+
+
+Underfull \hbox (badness 2460) in paragraph at lines 94--106
+\T1/ptm/m/n/12 yetk-isi ver-mek-te-dir. Uygu-lama mak-si-
+ []
+
+[3 </home/byarge/by-dirtycow-18010011067/process-out.png> </home/byarge/by-dirtycow-18010011067/add-user-charlie.png> </home/byarge/by-dirtycow-18010011067/change-user-charlie.png>]
+<server-grafik.png, id=29, 500.46976pt x 475.17525pt>
+File: server-grafik.png Graphic file (type png)
+<use server-grafik.png>
+Package pdftex.def Info: server-grafik.png  used on input line 116.
+(pdftex.def)             Requested size: 200.18434pt x 190.06673pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
+[]\T1/ptm/m/n/12 Linux sunucu-lar^^Yn olu³-tur-du§u bu
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
+\T1/ptm/m/n/12 yüzde-lik dil-imde bir ço§u gün-cel
+ []
+
+<linux-grafik.png, id=30, 533.5935pt x 475.7775pt>
+File: linux-grafik.png Graphic file (type png)
+<use linux-grafik.png>
+Package pdftex.def Info: linux-grafik.png  used on input line 124.
+(pdftex.def)             Requested size: 213.43361pt x 190.30762pt.
+
+Overfull \hbox (10.30678pt too wide) in paragraph at lines 124--126
+ [][] 
+ []
+
+
+Underfull \hbox (badness 2790) in paragraph at lines 129--130
+\T1/ptm/m/n/12 An-tivirüs veya her-hangi bir güven-lik
+ []
+
+
+Underfull \hbox (badness 5985) in paragraph at lines 129--130
+\T1/ptm/m/n/12 yaz^^Yl^^Ym^^Y taraf^^Yn-dan tespit edilmesinin
+ []
+
+[4 </home/byarge/by-dirtycow-18010011067/root-charlie.png> </home/byarge/by-dirtycow-18010011067/server-grafik.png> </home/byarge/by-dirtycow-18010011067/linux-grafik.png>]
+Underfull \hbox (badness 3849) in paragraph at lines 131--132
+\T1/ptm/m/n/12 yap^^Y üz-erinde uygu-la-mas^^Y vard^^Yr. Bu
+ []
+
+
+Underfull \hbox (badness 2237) in paragraph at lines 131--132
+\T1/ptm/m/n/12 uygu-la-malar github üz-erinde olu³-tu-ru-
+ []
+
+
+Underfull \hbox (badness 7759) in paragraph at lines 134--135
+\T1/ptm/m/n/12 root yetk-isi ver-ile-ce§ini göster-mi³tir.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+[]\T1/ptm/m/n/9 https://www.hackread.com/dirty-cow-the-most-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
+[]\T1/ptm/m/n/9 https://man7.org/linux/man-
+ []
+
+
+Overfull \hbox (25.3867pt too wide) in paragraph at lines 144--145
+[]\T1/ptm/m/n/9 https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs 
+ []
+
+
+Overfull \hbox (101.08565pt too wide) in paragraph at lines 145--146
+[]\T1/ptm/m/n/9 https://www.youtube.com/watch?v=kEsshExn7aE&ab_channel=LiveOverflow 
+ []
+
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[5
+
+] (/home/byarge/by-dirtycow-18010011067/bayramyarim-18010011067.aux) ) 
+Here is how much of TeX's memory you used:
+ 5956 strings out of 481252
+ 91984 string characters out of 5915887
+ 379832 words of memory out of 5000000
+ 22849 multiletter control sequences out of 15000+600000
+ 495747 words of font info for 108 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 68i,8n,74p,826b,313s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on /home/byarge/by-dirtycow-18010011067/bayramyarim-18010011067.pdf (5 pages, 481590 bytes).
+PDF statistics:
+ 52 PDF objects out of 1000 (max. 8388607)
+ 23 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+
